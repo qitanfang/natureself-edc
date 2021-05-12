@@ -1,6 +1,0 @@
--r requirements.txt
-
-zrplatform.services.usercenter==0.0.8
-
-# metadata should be implemented in ns.product.edc, before that, we keep using zrplatform/metadata
-zrplatform-metadata==cfbd31af
